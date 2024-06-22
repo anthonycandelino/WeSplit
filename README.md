@@ -8,4 +8,4 @@ User can enter their bill amount, number of people they're splitting bill with, 
   <img alt="User seeing total and split amounts" src="https://github.com/anthonycandelino/WeSplit/assets/32252982/ce456d37-01b3-4db0-932f-63b68cc681c9" width="250" />
 </p>
 
-App was created using @State values, currency locales, and toolbar focus for dismissing decimal keyboard input
+App was created as part of **100 Days of SwiftUI** Course using SwiftUI features such as @State values, currency locales, and toolbar focus for dismissing decimal keyboard input
